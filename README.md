@@ -1,7 +1,7 @@
 etcdctl
 =======
 
-Dockerfile to build etcdctl
+Dockerfile to package etcdctl
 
 ```
 FROM ubuntu:12.04
